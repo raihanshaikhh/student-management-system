@@ -4,7 +4,7 @@
   "description": "Student Management System - Backend API",
   "license": "ISC",
   "author": "Raihan Shaikh",
-  "type": "commonjs",
+  "type": "module",
   "main": "src/server.js",
   "scripts": {
     "start": "node src/server.js",
